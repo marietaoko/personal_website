@@ -176,18 +176,18 @@
  */
  @-webkit-keyframes color-change-2x-blue {
   0% {
-    background: #42bfcd;
+    background: #278993;
   }
   100% {
-    background: #0d5861;
+    background: #074248;
   }
 }
 @keyframes color-change-2x-blue {
   0% {
-    background: #42bfcd;
+    background: #278993;
   }
   100% {
-    background: #0d5861;
+    background: #074248;
   }
 }
 
@@ -211,18 +211,18 @@
  */
  @-webkit-keyframes color-change-2x-yellow {
   0% {
-    background: #cfa91e;
+    background: #aa870b;
   }
   100% {
-    background: #8d6f04;
+    background: #6c5502;
   }
 }
 @keyframes color-change-2x-yellow {
   0% {
-    background: #cfa91e;
+    background: #aa870b;
   }
   100% {
-    background: #8d6f04;
+    background: #6c5502;
   }
 }
 

@@ -52,7 +52,22 @@
     align-items: center;
   }
 
+  .title {
+    font-size: 1em;
+    width: 50%;
+    padding: 2em;
+    font-family: "brevia", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    transition: all .3s ease-in-out;
+    color: white;
+    text-align: center;
+  }
 
+
+.opacity img {
+  opacity: 40%;
+}
 
 
   .gallery {
@@ -605,6 +620,19 @@ text-decoration: none;
         color: #8b0820;
     } */
 
+
+    .title {
+    font-size: .8em;
+    width: 70%;
+    padding: 1em;
+    font-family: "brevia", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    transition: all .3s ease-in-out;
+    color: white;
+    text-align: center;
+  }
+
     
     .center {
       width: 100%;
@@ -773,6 +801,20 @@ text-decoration: none;
     font-size: 1.5em;
     padding: 1.5em;
   }
+
+
+  .title {
+    font-size: .5em;
+    width: 80%;
+    padding: .5em;
+    font-family: "brevia", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    transition: all .3s ease-in-out;
+    color: white;
+    text-align: center;
+  }
+
 
   .cards {
     position: absolute;
